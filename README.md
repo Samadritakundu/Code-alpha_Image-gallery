@@ -16,4 +16,4 @@ https://samadritakundu.github.io/Code-alpha_Image-gallery/
 - HTML
 - CSS
 
-## 📂 Project Structure
+
