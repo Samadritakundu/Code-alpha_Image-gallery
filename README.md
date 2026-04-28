@@ -4,7 +4,7 @@
 A simple and clean image gallery website built using HTML and CSS.
 
 ## 🚀 Live Demo
-https://samadritakundu.github.io/Code-alpha_Image-gallery/
+[Image Gallery] https://samadritakundu.github.io/Code-alpha_Image-gallery/
 
 ## ✨ Features
 - Responsive design
